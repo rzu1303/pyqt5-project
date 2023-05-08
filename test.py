@@ -1,3 +1,6 @@
-print("Hi, arzu, imran")
-print("ghfsdfsakdjf")
-print("ghfsdfsakd asdf gsdfjf")
+def main():
+    print("fgshhsg")
+    
+    
+if __name__=="__main__":
+    main()
